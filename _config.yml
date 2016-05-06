@@ -1,28 +1,40 @@
-name: Central Florida Trucking
-favicon: null
-layout_spectrum: 0.26667677285149693
-typography_spectrum: 0.017668153392150998
-cta:
-  domain: null
-  bucket: null
-  version: null
 analytics:
+  twitter: null
   google: null
   facebook: null
-  twitter: null
 opengraph:
   image: null
   type: null
   appId: null
-color:
-  brandColors:
-    - '#3C493F'
-    - '#7E8D85'
-    - '#B3BFB8'
-    - '#F0F7F4'
-    - '#A2E3C4'
-  brandStrength: 0.38254313822835684
-  lightness: 0.16215063445270061
-  saturation: 0.4875124152749777
-  rhythmicContrast: 0.7246296706143767
+collections:
+  - index:
+      path: /
+      number: 15
+      paginate: true
+      navigable: true
+    permalink:
+      path: '/:title/'
+    feed:
+      path: /rss.xml
+      format: rss
+      number: 10
 purpose: []
+color:
+  saturation: 0.4875124152749777
+  brandStrength: 1
+  lightness: 0.1621506344527006
+  brandColors:
+    - '#FFFFFF'
+    - '#6E6E6E'
+    - '#000000'
+    - '#FEBD00'
+    - '#F38100'
+  rhythmicContrast: 0.7246296706143767
+typography_spectrum: 0.4587814
+cta:
+  bucket: null
+  version: null
+  domain: null
+layout_spectrum: 0.3207885
+favicon: null
+name: Central Florida Trucking
