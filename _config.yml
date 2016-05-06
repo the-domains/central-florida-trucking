@@ -1,0 +1,28 @@
+name: Central Florida Trucking
+favicon: null
+layout_spectrum: 0.26667677285149693
+typography_spectrum: 0.017668153392150998
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#3C493F'
+    - '#7E8D85'
+    - '#B3BFB8'
+    - '#F0F7F4'
+    - '#A2E3C4'
+  brandStrength: 0.38254313822835684
+  lightness: 0.16215063445270061
+  saturation: 0.4875124152749777
+  rhythmicContrast: 0.7246296706143767
+purpose: []
